@@ -15,6 +15,8 @@ int main(int argc, const char * argv[]) {
     
     // Submit by user 2 
     std::cout << "Bao Hello, World!\n";
+    
+    // Submit by user one more time
     for (int i = 0; i < 100; ++i) {
         printf("%02d\n", i);
     }
