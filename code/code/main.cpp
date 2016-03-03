@@ -22,6 +22,7 @@ int main(int argc, const char * argv[]) {
     }
     
     // Try the merge/ conflict via 'sandbox'
+    // Make conflict via 'sandbox2'
     
     return 0;
 }
