@@ -21,15 +21,8 @@ int main(int argc, const char * argv[]) {
         printf("%02d\n", i);
     }
     
-    // Try the merge/ conflict via 'sandbox'
-    // Make conflict via 'sandbox2'
-    
-    printf("Bao make change in sandbox 'ywu/test1' \n");
-
-    printf("zhuzhu");
-    
-    // make change 
-    printf("add new change");
+    //
+    printf("add change in ywu/feature, and push to remote ywu/feature.");
     
     return 0;
 }
