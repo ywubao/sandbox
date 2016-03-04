@@ -28,7 +28,8 @@ int main(int argc, const char * argv[]) {
 
     printf("zhuzhu");
     
-    pirnt("add new change");
+    // make change 
+    printf("add new change");
     
     return 0;
 }
