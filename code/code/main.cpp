@@ -24,5 +24,8 @@ int main(int argc, const char * argv[]) {
     // Try the merge/ conflict via 'sandbox'
     // Make conflict via 'sandbox2'
     
+    printf("Bao make change in sandbox 'ywu/test1' \n");
+
+    
     return 0;
 }
