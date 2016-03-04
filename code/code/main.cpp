@@ -21,16 +21,8 @@ int main(int argc, const char * argv[]) {
         printf("%02d\n", i);
     }
     
-    //
-    printf("add change in ywu/feature, and push to remote ywu/feature.");
-    
-    // Add my bug fix over here
-    printf("add my bug fix over here via ywu/bugfix branch");
-    
-    // add another bug fix over here
-    printf("add my bug fix 2 over here via ywu/bugfix branch");
-    
-    printf("add my bug fix 1 via ywu/bugfix2 branch");
+    printf("change1 via ywu/bugfix1");
+    printf("change2 via ywu/bugfix1");
     
     return 0;
 }
