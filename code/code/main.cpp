@@ -22,6 +22,7 @@ int main(int argc, const char * argv[]) {
     }
     
     printf("change 1 via ywu/bugfix2");
+    printf("change 2 via ywu/bugfix2");
     
     return 0;
 }
