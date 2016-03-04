@@ -25,10 +25,10 @@ int main(int argc, const char * argv[]) {
     printf("add change in ywu/feature, and push to remote ywu/feature.");
     
     // Add my bug fix over here
-    printf("add my bug fix over here");
+    printf("add my bug fix over here via ywu/bugfix branch");
     
     // add another bug fix over here
-    printf("add my bug fix 2 over here");
+    printf("add my bug fix 2 over here via ywu/bugfix branch");
     
     
     return 0;
