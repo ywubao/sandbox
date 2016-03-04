@@ -30,6 +30,7 @@ int main(int argc, const char * argv[]) {
     // add another bug fix over here
     printf("add my bug fix 2 over here via ywu/bugfix branch");
     
+    printf("add my bug fix 1 via ywu/bugfix2 branch");
     
     return 0;
 }
