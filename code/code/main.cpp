@@ -21,8 +21,8 @@ int main(int argc, const char * argv[]) {
         printf("%02d\n", i);
     }
     
-    printf("change1 via ywu/bugfix1");
-    printf("change2 via ywu/bugfix1");
+    printf("change11 via ywu/bugfix1");
+    printf("change12 via ywu/bugfix1");
     
     return 0;
 }
