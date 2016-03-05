@@ -31,11 +31,12 @@ int main(int argc, const char * argv[]) {
     
     // change in branch2
     
-    
     /////////////
     
     // commit via branch1
-    
+
+    // commit via branch2
+
     
     return 0;
 }
