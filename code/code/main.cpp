@@ -36,6 +36,8 @@ int main(int argc, const char * argv[]) {
     
     // commit via branch1
     
+    // commit2 via branch1
+    
     
     return 0;
 }
