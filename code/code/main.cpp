@@ -30,7 +30,7 @@ int main(int argc, const char * argv[]) {
     // change in branch1
     
     // change in branch2
-    
+
     /////////////
     
     // commit via branch1
