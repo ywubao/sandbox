@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]) {
     for (int i = 0; i < 100; ++i) {
         printf("%02d\n", i);
     }
-    
+
     printf("change11 via ywu/bugfix1");
     printf("change12 via ywu/bugfix1");
 
