@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
         printf("%02d\n", i);
     }
 
-    printf("make change in branch1");
+    printf("make change in branch2");
     
     return 0;
 }
