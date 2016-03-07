@@ -21,26 +21,7 @@ int main(int argc, const char * argv[]) {
         printf("%02d\n", i);
     }
 
-    printf("change11 via ywu/bugfix1");
-    printf("change12 via ywu/bugfix1");
-
-    printf("change11 via ywu/bugfix2");
-    printf("change12 via ywu/bugfix2");
-    
-    // change in branch1
-    
-    // change in branch2
-
-    /////////////
-    
-    // commit via branch1
-    
-    // commit2 via branch1
-    
-
-    // commit via branch2
-
-    // commit 2 via branch2
+    printf("make change in branch1");
     
     return 0;
 }
